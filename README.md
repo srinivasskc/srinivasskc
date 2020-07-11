@@ -5,8 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-[![HitCount](http://hits.dwyl.com/srinivasskc/srinivasskc.svg)](http://hits.dwyl.com/srinivasskc/srinivasskc)
-
 ![counter](https://env7l9q0cv9xe6y.m.pipedream.net)
 
 
