@@ -5,6 +5,11 @@
 Here are some ideas to get you started:
 -->
 
+[![HitCount](http://hits.dwyl.com/srinivasskc/srinivasskc.svg)](http://hits.dwyl.com/srinivasskc/srinivasskc)
+
+![counter](https://env7l9q0cv9xe6y.m.pipedream.net)
+
+
 - 🔭 I’m currently working at [Moolya Software Testing Pvt Ltd](https://moolya.com/)
 - 🔭 I’m currently working on Exploratory Testing - [Clinical Trial Management System Project](https://www.medidata.com/en/)
 - 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience Solutions.
