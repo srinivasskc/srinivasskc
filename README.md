@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Exploratory Testing - Clinical Trial Management System Project
 - 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience Solutions. (Web/Mobile/API/Windows - Functional Testing)
 
-# Current Learning
+## Current Learning
 - 🌱 I’m currently learning API Testing with Postman and REST Assured API Automation
 - 📑 Check out my learning [projects](https://github.com/srinivasskc?tab=repositories)
 - 👯 I write testing articles on my [Blog](https://testingeduindia.blogspot.com)
+
+## Contact Me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srinivasskc/)
 
 
