@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ![counter](https://env7l9q0cv9xe6y.m.pipedream.net)
 
 
-- 🔭 I’m currently working at [Moolya Software Testing Pvt Ltd](https://moolya.com/)
+- 🔭 I’m currently working at [Unilog Content Solutions Pvt Ltd](https://www.unilogcorp.com/)
 - 🔭 I’m currently working on Exploratory Testing - Clinical Trial Management System Project
 - 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience Solutions. (Web/Mobile/API/Windows - Functional Testing)
 
