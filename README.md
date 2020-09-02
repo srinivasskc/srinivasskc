@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working at [Unilog Content Solutions Pvt Ltd](https://www.unilogcorp.com/)
-- 🔭 I’m currently working on Exploratory Testing - Clinical Trial Management System Project
 - 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience Solutions. (Web/Mobile/API/Windows - Functional Testing)
 
 ## Current Learning
