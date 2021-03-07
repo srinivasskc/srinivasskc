@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 
 ## Contact Me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srinivasskc/)
-
-
-![image](https://user-images.githubusercontent.com/26836928/87217693-cefeaa00-c369-11ea-8e58-02f18a9dd4e5.png)
