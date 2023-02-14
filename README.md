@@ -5,16 +5,19 @@
 Here are some ideas to get you started:
 -->
 
-![counter](https://env7l9q0cv9xe6y.m.pipedream.net)
-
-
-- 🔭 I’m currently working at [Bridgetree Research Services Pvt Ltd](https://www.bridgetree.com/)
-- 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience, Marketing, CDP Solutions. (Web/Mobile/API/Windows - Functional Testing)
+- 🔭 I’m currently working at [Bridgetree Research Services Pvt Ltd](https://www.bridgetree.com/) as Lead - Quality Analyst.
+- 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience, Marketing, CDP Solutions.
+- ⚡ 11+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.
 
 ## Current Learning
 - 🌱 I’m currently learning Python
-- 📑 Check out my learning [projects](https://github.com/srinivasskc?tab=repositories)
-- 👯 I write testing articles on my [Blog](https://testingeduindia.blogspot.com)
+- 📑 Check out my learning [projects](https://bit.ly/skcrepos)
+- 👯 I write testing articles on my [Blog](https://bit.ly/skcblog)
 
 ## Contact Me
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/srinivasskc/)
+- 📫 How to reach me: [LinkedIn](https://bit.ly/skclinkedin)
+
+## Recommendations
+- ✨ Check out the Recommendations received [LinkedIn](https://bit.ly/skclinkrecom)
+
+
