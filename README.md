@@ -5,14 +5,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at [Bridgetree Research Services Pvt Ltd](https://www.bridgetree.com/) as Lead - Quality Analyst.
-- 🎁 I have worked on Auto-ID Solutions, Ecommerce Solutions, Lifescience, Marketing, CDP Solutions.
-- ⚡ 11+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.
+- 🔭 I’m currently working at [Moolya Software Testing Private Limited](https://moolya.com/) as Senior Principal ET.
+- 🎁 I have worked on Data intelligence platform, Auto-ID Solutions, E-commerce Solutions, Lifescience, Marketing, CDP Solutions.
+- ⚡ 12+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.
 
 ## Current Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Bash Scripting
 - 📑 Check out my learning [projects](https://bit.ly/skcrepos)
-- 👯 I write testing articles on my [Blog](https://bit.ly/skcblog)
 
 ## Contact Me
 - 📫 How to reach me: [LinkedIn](https://bit.ly/skclinkedin)
