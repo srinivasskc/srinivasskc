@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 ## Recommendations
 - ✨ Check out the Recommendations received [LinkedIn](https://bit.ly/skclinkrecom)
 
+![srinivasskc's Stats](https://github-readme-stats.vercel.app/api?username=srinivasskc&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 
 ![](https://hit.yhype.me/github/profile?user_id=26836928)
+
+
+
