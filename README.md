@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ 12+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.
 
 ## Current Learning
-- 🌱 I’m currently learning Playwright and GenAI.
+- 🌱 I’m currently learning Python and Accessibility Testing.
 - 📑 Check out my learning [projects](https://bit.ly/skcrepos)
 
 ## Contact Me
