@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=srinivasskc)
 
 <!--
 **srinivasskc/srinivasskc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,11 @@ Here are some ideas to get you started:
 ## Recommendations
 - ✨ Check out the Recommendations received [LinkedIn](https://bit.ly/skclinkrecom)
 
+## My Github Stats
 ![srinivasskc's Stats](https://github-readme-stats.vercel.app/api?username=srinivasskc&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
+
+![](https://komarev.com/ghpvc/?username=srinivasskc)
+
 
 ![](https://hit.yhype.me/github/profile?user_id=26836928)
 
