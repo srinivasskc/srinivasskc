@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working at: __[Moolya Software Testing Private Limited](https://moolya.com/) as Senior Principal Exploratory Tester.__ 
 - 🌱 I’m currently learning: __Python, Accessibility Testing__
-- ⚡ I'm currintly having: __12+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.__
+- ⚡ I'm currintly having: __13+ years experience in testing (Web/Mobile/API/Windows - Functional Testing), Accessibility Testing, Database Testing.__
 - 🎁 I am currently working on __Data intelligence platform__ and previously worked on __Auto-ID Solutions, E-commerce Solutions, Lifescience, Marketing, CDP Solutions.__
 - 💬 Companies worked for: __ITC Infotech, Unilog Content Solutions Pvt Ltd, Moolya Software Testing Pvt Ltd, Bridgetree Research Services Private Limited.__
 
 ## I’m currently learning
-- 🌱 I’m currently learning [Python](https://github.com/srinivasskc/Python_Course_Testing) and Accessibility Testing
+- 🌱 I’m currently learning [Python](https://github.com/srinivasskc/Python_Course_Testing), AI and Accessibility Testing
 - 📑 Check out my learning [projects](https://bit.ly/skcrepos)
 
 ## Recommendations
