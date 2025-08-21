@@ -13,7 +13,7 @@
 - 💬 Companies worked for: __ITC Infotech, Unilog Content Solutions Pvt Ltd, Moolya Software Testing Pvt Ltd, Bridgetree Research Services Private Limited.__
 
 ## I’m currently learning
-- 🌱 I’m currently working on [Data Science] (https://github.com/srinivasskc/my_datascience_journal), AI and Accessibility Testing
+- 🌱 I’m currently working on [Data Science](https://github.com/srinivasskc/my_datascience_journal), AI and Accessibility Testing
 - 📑 Check out my learning [projects](https://bit.ly/skcrepos)
 
 ## Recommendations
